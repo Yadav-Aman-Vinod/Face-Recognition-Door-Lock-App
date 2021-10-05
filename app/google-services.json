@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016039516944",
+    "firebase_url": "https://frdl-d2bc6.firebaseio.com",
+    "project_id": "frdl-d2bc6",
+    "storage_bucket": "frdl-d2bc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016039516944:android:e5bd50e9d4d792a5b0d395",
+        "android_client_info": {
+          "package_name": "com.example.frdl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016039516944-9l5sl6vq19v64e6jndcbqvdauh47jhl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIiDqKRWxT-ca64xUBBnZLuTu-i1JVHys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016039516944-9l5sl6vq19v64e6jndcbqvdauh47jhl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
