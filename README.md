@@ -9,3 +9,6 @@ For hardware : Raspberry Pie,
                Pie camera.
       
 For Software : Created an app using android studio and firebase so that user can manually open the lock with thier phone incase the camera is not working.
+
+Sample:
+![](App.png)
